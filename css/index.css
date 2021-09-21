@@ -1,0 +1,8 @@
+#content h1{
+    color: red;
+}
+
+#content {
+    width: 40%;
+    margin: 0 auto;
+}
